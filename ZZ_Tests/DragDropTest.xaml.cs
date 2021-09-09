@@ -75,7 +75,6 @@ namespace ZZ_Tests
             DragDropData ddd = (DragDropData)e.Data.GetData(typeof(DragDropData));
             int quellRow = Grid.GetRow(ddd.DDRow);
 
-
             if (zielRow < quellRow)
             {
                 System.Diagnostics.Debug.Print($"ZielRow = {zielRow}, QuellRow= {quellRow}");
