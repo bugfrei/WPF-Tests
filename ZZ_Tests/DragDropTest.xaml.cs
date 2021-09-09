@@ -91,7 +91,6 @@ namespace ZZ_Tests
                 DDrow.Background = Grid.GetRow(DDrow) % 2 == 0 ? Brushes.Yellow : Brushes.LightBlue;
                 Grid.SetRow(ddd.DDRow, quellRow + 1);
             }
-
         }
 
         Point klickPos;
