@@ -63,8 +63,7 @@ namespace ZZ_Tests
 
         private void Row_DragLeave(object sender, DragEventArgs e)
         {
-            //DragDropRow row = (DragDropRow)sender;
-            //row.Padding = new Thickness(0, 0, 0, 0);
+           
         }
 
         private void Row_DragEnter(object sender, DragEventArgs e)
