@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ_Tests", "ZZ_Tests\ZZ_Tests.csproj", "{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		D-DRAGDROP|Any CPU = D-DRAGDROP|Any CPU
+		D-Panels|Any CPU = D-Panels|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}.D-DRAGDROP|Any CPU.ActiveCfg = D-DRAGDROP|Any CPU
+		{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}.D-DRAGDROP|Any CPU.Build.0 = D-DRAGDROP|Any CPU
+		{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}.D-Panels|Any CPU.ActiveCfg = D-Panels|Any CPU
+		{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}.D-Panels|Any CPU.Build.0 = D-Panels|Any CPU
+		{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355A1F04-D9F0-47D0-AA41-B5BDCEC4CED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE0735E-F3F8-4F9E-A96C-D485A5FBA16A}
+	EndGlobalSection
+EndGlobal
