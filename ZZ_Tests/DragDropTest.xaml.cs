@@ -63,7 +63,6 @@ namespace ZZ_Tests
 
         private void Row_DragLeave(object sender, DragEventArgs e)
         {
-           
         }
 
         private void Row_DragEnter(object sender, DragEventArgs e)
